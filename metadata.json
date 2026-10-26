@@ -1,0 +1,6 @@
+{
+  "name": "Le Chemin pour le Nikah",
+  "description": "Plateforme de rencontre sérieuse et vérifiée pour les célibataires au Niger souhaitant construire un foyer dans le respect des valeurs du Nikah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
